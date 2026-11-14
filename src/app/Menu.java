@@ -5,6 +5,11 @@ import modelo.Agendamento;
 import modelo.Cliente;
 import servico.AgendaService;
 
+// TRABALHO FINAL - ESTRUTURA DE DADOS
+// TEMA 10: AGENDA DE SERVIÇOS
+// INTEGRANTES:
+// Alice Maiara Santos Marques - 200040514
+// Isabela Freitas Mota Lima - 200039557
 public class Menu {
     private final AgendaService service = new AgendaService();
     private final Scanner entrada = new Scanner(System.in);

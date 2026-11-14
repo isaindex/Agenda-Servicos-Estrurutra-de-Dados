@@ -1,5 +1,4 @@
 # Agenda de Servicos (Tema 10)
-
 Aplicação em Java que gerencia um salão/estúdio de serviços usando estruturas de dados feitas à mão, sem nenhuma Collection do Java.
 
 | Estrutura | Papel no negócio |
